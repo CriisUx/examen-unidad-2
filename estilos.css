@@ -1,0 +1,28 @@
+
+header {
+    background-color: lightblue;
+}
+
+section {
+    background-color: lightgreen;
+    margin: 10px;
+    padding: 10px;
+}
+
+article {
+    background-color: lightyellow;
+    margin: 10px;
+    padding: 10px;
+}
+
+.imagen {
+    background-image: url("https://images.unsplash.com/photo-1441974231531-c6227db76b6e");
+    background-size: cover;
+    color: white;
+}
+
+footer {
+    background-color: lightcoral;
+    margin: 10px;
+    padding: 10px;
+}
